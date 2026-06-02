@@ -1,4 +1,1 @@
-<script>
-    var audio = new Audio('https://github.com/eosmusashi/eosmusashi.github.io/raw/refs/heads/main/WeWillMeetAgain-RAW.mp3?raw=true');
-    audio.play();
-</script>
+
